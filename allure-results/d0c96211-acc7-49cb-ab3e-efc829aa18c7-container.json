@@ -1,0 +1,1 @@
+{"uuid":"d0c96211-acc7-49cb-ab3e-efc829aa18c7","name":"CreateNewUserTest","children":["0f95fe1c-02a1-4bf3-af30-90266f623395"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1677776965447,"stop":1677776966428}],"afters":[],"links":[],"start":1677776965401,"stop":1677776970297}
